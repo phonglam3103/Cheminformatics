@@ -7,11 +7,11 @@ This is where I post the shell script used to virtual screening using Autodock V
 ## Folder requirements
 1. protein.pdbqt
 2. Multiple ligand files (.pdbqt), could be converted from .mol2 or .pdb using Openbabel
-3. Config file
+3. Config file (conf.txt_
 
 ## Virtual screening using the shell scripts
-1. Place the vina.exe in the same directory that consists of the "protein.pdbqt", multiple ligands.pdbqt and config.txt
+1. Place the vina.exe in the same directory that consists of the "protein.pdbqt", multiple ligands.pdbqt and conf.txt
 2. In the address bar: type cmd
 3. _bash vina_screen_local.sh_
-4. Sort the screened result using this code: 
+4. In the *out* sub-folder, download the vina_screen_get_top.py from this repository, run this code by cmd:
 _python vina_screen_get_top.py_
