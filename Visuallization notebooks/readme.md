@@ -4,7 +4,7 @@ In this folder, you may find some:
 1. Pymol scripts to customize the bond, the atom label and the representation of either the protein or the ligands.
 2. Python notebooks to draw histograms of the distribution of the docking score using seaborns and matplotly
 3. Python notebooks to draw ROC curve to evaluate the molecular docking models (Beside RMSD of the cocrystallized ligands)
-4. Writing soon...
+4. In process...
 
 ## How to use?
 1. RMSD files: In order to use the RMSD plots, you should have a look at the template csv file (with the data retrieved from the MDs) name *RMSD_p.csv* to know how to use it.
