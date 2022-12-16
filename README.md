@@ -7,12 +7,12 @@ In this repository, you may find some useful codes used in his projects:
 4. Python notebooks used to train machine learning models in predicting susceptibility of microbials derived from impatients in a hospital in HoChiMinh City against different types of antimicrobials (In process, writing)
 
 ## About me
-I am a pharmacist interested in computer-aided drug design using both in-silico approaches and in-vitro approaches to evaluate the computer-based predictions. My research interests include, but are not limited to metabolism-related syndromes, cardiovascular diseases and auto-inflammatory diseases. My graduation thesis is about finding small molecules that can inhibit the interleukin-33/ST2 axis, which is related to the pathogenesis of many autoimmune, inflammatory diseases, using different in-silico methods such as homology modelling, molecular docking, molecular dynamics simulations. Additionally, I am also involved in synthesizing and purifying the IL-33 protein and using fluorescent spectroscopy to evaluate the binding affinity of screened compounds. 
+I am a pharmacist interested in computer-aided drug design using both in-silico approaches and in-vitro approaches to evaluate the computer-based predictions. My research interests include, but are not limited to metabolism-related syndromes, cardiovascular diseases and auto-inflammatory diseases. My graduation thesis is about finding small molecules that can inhibit the interleukin-33/ST2 axis, which is involved in pathology of inflammatory, infectious, and autoimmune diseases, using different in-silico methods such as homology modelling, molecular docking, molecular dynamics simulations. Additionally, I am also involved in synthesizing and purifying the IL-33 protein and using fluorescent spectroscopy to evaluate the binding affinity of screened compounds. 
 
 ## Projects involved
 1. Discovery of IL-33/ST2 small molecule inhibitors (In process https://sites.google.com/site/il33iproject/)
-2. Discovery the inhibitory activity of in house chalcones against SARS-Cov-2 Main protease (https://doi.org/10.1007/s11224-022-02000-3)
-3. Discovery the inhibitory activity of existed commercial drug compounds against the infusion of monkeypox virus (https://doi.org/10.3390/ijms231911570)
+2. Discovery the inhibitory activity of in-house chalcones against SARS-Cov-2 Main protease (https://doi.org/10.1007/s11224-022-02000-3)
+3. Repurposing commercial drug compounds against the infusion of monkeypox virus (https://doi.org/10.3390/ijms231911570)
 4. Discovery the inhibitory activity of flavonoid compounds against α-glucosidase and α-amylase in the treatment of diabete mellitus (In process)
 5. Prediction of antibiotic resistance in hospitalized pateients using machine learning algorithms from medical record data (In process)
 
