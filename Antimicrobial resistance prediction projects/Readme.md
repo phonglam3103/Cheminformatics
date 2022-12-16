@@ -12,13 +12,18 @@ Five different ML algorithms:  were used to predict antibiotic susceptibility of
 4. Random Forest (RF)
 5. eXtreme Gradient Boosting (XGBoost),
 
-Sampling methods to rebalance the data: Random oversampling and Random Undersampling was employed from https://imbalanced-learn.org/
+Sampling methods to rebalance the data was employed from https://imbalanced-learn.org/: 
+1. Random oversampling 
+2. Random undersampling 
+3. SMOTE
+4. SMOTE undesampling
+5. Untreated 
 
 ## Variables
-10 variables from the medical records were selected. These included age, gender, province of residence, diagnosis (type of infection), comorbidities, prior hospitalization, number of hospital admissions, sample type, pathogens, and antibiogram (including susceptibility results).
+10 variables from the medical records were selected. These included age, gender, province of residence, diagnosis (type of infection), comorbidities, prior hospitalization, number of hospital admissions, sample type, pathogens.
 
 ## Outcome
-Resistant (R) or Sensitive (S)
+Resistant (R) or Sensitive (S) to a specific antibiotics (in this study we limit to only 'CEFTAZIDIME','MEROPENEM','VANCOMYCIN')
 
 ## Evaluation of the best models
 Different evaluating parameters were used such as:
