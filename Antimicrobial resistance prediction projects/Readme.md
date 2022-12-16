@@ -20,3 +20,10 @@ Sampling methods to rebalance the data: Random oversampling and Random Undersamp
 ## Outcome
 Resistant (R) or Sensitive (S)
 
+## Evaluation of the best models
+Different evaluating parameters were used such as:
+1. AU ROC curve
+2. AU Precision-recall curve
+3. F1-score
+4. Cross-validation (cv=10) F1-macro score
+
