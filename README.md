@@ -18,7 +18,7 @@ Scholar: https://scholar.google.com/citations?user=6cgYvfIAAAAJ&hl=vi
 2. Discovery the inhibitory activity of in-house chalcones against SARS-Cov-2 Main protease (https://doi.org/10.1007/s11224-022-02000-3)
 3. Repurposing commercial drug compounds against the infusion of monkeypox virus (https://doi.org/10.3390/ijms231911570)
 4. Discovery the inhibitory activity of flavonoid compounds against α-glucosidase and α-amylase in the treatment of diabete mellitus (In process)
-5. Prediction of antibiotic resistance in hospitalized pateients using machine learning algorithms from medical record data (In process)
+5. Prediction of antibiotic resistance in hospitalized patients using machine learning algorithms from medical record data (In process)
 
 ## Publications
 <a href="" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=25879" alt="SCImago Journal &amp; Country Rank"  /></a>
