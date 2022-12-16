@@ -10,8 +10,7 @@ In this repository, you may find some useful codes used in his projects:
 I am a pharmacist interested in computer-aided drug design using both in-silico approaches and in-vitro approaches to evaluate the computer-based predictions. My research interests include, but are not limited to metabolism-related syndromes, cardiovascular diseases and auto-inflammatory diseases. My graduation thesis is about finding small molecules that can inhibit the interleukin-33/ST2 axis, which is involved in pathology of inflammatory, infectious, and autoimmune diseases, using different in-silico methods such as homology modelling, molecular docking, molecular dynamics simulations. Additionally, I am also involved in synthesizing and purifying the IL-33 protein and using fluorescent spectroscopy to evaluate the binding affinity of screened compounds. 
 
 ResearchGate: https://www.researchgate.net/profile/Thua_Phong_Lam
-
-Scholar: https://scholar.google.com/citations?user=6cgYvfIAAAAJ&hl=vi
+Scholar: https://scholar.google.com/citations?user=6cgYvfIAAAAJ
 
 ## Projects involved
 1. Discovery of IL-33/ST2 small molecule inhibitors (In process https://sites.google.com/site/il33iproject/)
