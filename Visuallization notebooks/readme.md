@@ -8,4 +8,7 @@ In this folder, you may find some:
 
 ## How to use?
 1. RMSD files: In order to use the RMSD plots, you should have a look at the template csv file (with the data retrieved from the MDs) name *RMSD_p.csv* to know how to use it.
-2. Histogram: this notebook was written to plot the distribution of the docking score of the screened compounds from molecular docking process. You can have a look at Vina_sort.csv file to know the format of the input.
+
+2. Histogram: this notebook was written to plot the distribution of the docking score of the screened compounds from molecular docking process. You can have a look at Histogram.csv file to know the format of the input. (You will need to sort the docking score in an ascending order)
+
+3. ROC: this notebook was written to evaluate docking protocol/docking models. Generally, you will need to dock the known active compounds (actives) and inactive compounds (usually virtually generated decoys) and assess the Area under the curve (AUC) of the ROC curve. Generally, the higher the AUC-ROC value, the better the model. You can use the Vina_sort.csv file as a template, with the active compounds being value 1 in the third collumn and the values of the decoys are 0. You also need to sort the docking score in an ascending order.
