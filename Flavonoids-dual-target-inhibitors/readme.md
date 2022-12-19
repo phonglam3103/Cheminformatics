@@ -14,3 +14,6 @@ P.I: Prof. Dr. Thanh-Dao Tran - MSc. Tan Thanh Mai
 The project consists of two aims:
 1. To evaluate the inhibitory activity of in-house synthesized flavonoid compounds against the two enzymatic targets (writing manuscript)
 2. To systematically review the current evidence of flavonoids againts the two enzymes of interests (the protocol of the systematic review was published on: 10.13140/RG.2.2.17980.31368/2)
+
+## Contents
+Here, you may find some useful notebooks to convert the drawed 2D SMILES chain into standardized ones using Rdkit library and a code to convert the IC50 value into pIC50 and calculate the interquatile range (IQR) of the collected data to overview the inhibitory activity of flavonoids against two digestive enzymes and to compare with the concurrent data of acarbose in the same experimental conditions.
