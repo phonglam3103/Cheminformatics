@@ -1,3 +1,16 @@
 # Hello there
 This is a repository of flavonoids as anti-diabetic project. The aim of the study is to evaluate the inhibitory activity of both natural and synthetic flavonoids against two anti-diabetic target namely alpha-glucosidase and alpha-amylase which have crucial role in the metabolism of carbohydrate, thereby being appealing targets for the treatment of diabetes.
-Currently, there are three approved small molecule drugs targetting the enzymes which belong to anti alpha-glucosidase group, including acarbose, miglitol and voglibose. However, the adverse reactions such as flatulence, abdominal distention, and diarrhea are the main reasons why they are not the first line therapy in the treatment of diabetes mellitus. Flavonoids are naturally phenolic compounds composed of a fifteen-carbon skeleton (C6-C3-C6) consisting of two benzene rings (A and B rings) linked through a heterocyclicpyran ring (C ring). Numerous studies have demonstrated that flavonoids have alpha-amylase or alpha-glucosidase inhibitory properties.6-8 Additionally, some flavonoids withstronger inhibitory effects against alpha-glucosidase than alpha-amylase (such asdaidzein) could be of significant relevance to attenuating gastrointestinal adverseeffects.9,10The overview of flavonoids having the ability to inhibit both enzymes, however, is not supported by sufficient data. For this purpose, this systematic review provides a small appraisal on T2D and the available flavonoids with a focus on their simultaneous inhibition of alpha-amylase and alpha-glucosidase activity.
+## Project members: 
+P.I: Prof. Dr. Thanh-Dao Tran - MSc. Tan Thanh Mai
+1. BPharm. Thua-Phong Lam
+2. BPharm. Ngoc-Vi Nguyen Tran
+3. Nghia Vo-Trong Lai
+4. Long-Hung Pham-Dinh
+5. Bao-Tran Ngoc Dang
+6. Ngoc-Lam Nguyen Truong
+7. Song-Ky Nguyen-Vo
+
+## Aims
+The project consists of two aims:
+1. To evaluate the inhibitory activity of in-house synthesized flavonoid compounds against the two enzymatic targets (writing manuscript)
+2. To systematically review the current evidence of flavonoids againts the two enzymes of interests (the protocol of the systematic review was published on: 10.13140/RG.2.2.17980.31368/2)
