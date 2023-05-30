@@ -20,4 +20,4 @@ The project consists of two aims:
 Here, you may find some useful notebooks to convert the drawed 2D SMILES chain into standardized ones using Rdkit library and a code to convert the IC50 value into pIC50 and calculate the interquatile range (IQR) of the collected data to overview the inhibitory activity of flavonoids against two digestive enzymes and to compare with the concurrent data of acarbose in the same experimental conditions.
 A preprint for the manuscript has been deposited on the ChemRxiv server. 
 
-Please kindly have a look at it at: doi.org/10.26434/chemrxiv-2023-cdlf8-v2 <p align="right">![rgb](https://github.com/phonglam3103/Cheminformatics/assets/95520011/7c0d55c4-4bb2-4b2b-b4cc-9f0d3d4ccc7f)</p> 
+Please kindly have a look at it at: 10.26434/chemrxiv-2023-cdlf8-v2 <p align="right">![rgb](https://github.com/phonglam3103/Cheminformatics/assets/95520011/7c0d55c4-4bb2-4b2b-b4cc-9f0d3d4ccc7f)</p> 
