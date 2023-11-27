@@ -3,7 +3,7 @@ This is a repository of Phong to achieve his codes and useful files used in his 
 In this repository, you may find some useful codes used in his projects:
 1. GROMACS mdp files used in molecular dynamics simulations (MDs) used in his two publications
 2. Python notebooks used to visuallise the data in his publications
-3. Python notebooks used to mine the data and group the same flavonoid structures used in a systematic review (In process, writing)
+3. Python notebooks used to mine the data and group the same flavonoid structures used in a systematic review ([Repository](https://github.com/MedChemUMP/FDIGA))
 4. Python notebooks used to train machine learning models in predicting susceptibility of microbials derived from impatients in a hospital in HoChiMinh City against different types of antimicrobials (In process, writing)
 
 ## About me
