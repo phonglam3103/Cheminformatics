@@ -22,10 +22,11 @@ Scholar: https://scholar.google.com/citations?user=6cgYvfIAAAAJ
 
 ## Publications
 <a href="" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=25879" alt="SCImago Journal &amp; Country Rank"  /></a>
+
 <a href="https://www.scimagojr.com/journalsearch.php?q=29053&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=29053" alt="SCImago Journal &amp; Country Rank"  /></a>
 If you find my notebooks useful in your research, consider citing us in our most recent publications:
 
-Mai TT, Phan MH, Thai TT, **Lam T-P**, et al. **Discovery of novel flavonoid derivatives as potential dual inhibitors against α-glucosidase and α-amylase: virtual screening, synthesis, and biological evaluation**. _Molecular diversity_. 2023; [https://doi.org/10.3390/ijms231911570](https://doi.org/10.1007/s11030-023-10680-0)
+Mai TT, Phan MH, Thai TT, **Lam T-P**, et al. **Discovery of novel flavonoid derivatives as potential dual inhibitors against α-glucosidase and α-amylase: virtual screening, synthesis, and biological evaluation**. _Molecular diversity_. 2023; https://doi.org/10.1007/s11030-023-10680-0
 
 **Lam T-P**, Tran V-H, Mai TT, Lai NV-T, Dang B-TN, Le M-T, Tran T-D, Trinh D-TT, Thai K-M. **Identification of Diosmin and Flavin Adenine Dinucleotide as Repurposing Treatments for Monkeypox Virus: A Computational Study**. _International Journal of Molecular Sciences_. 2022; 23(19):11570. https://doi.org/10.3390/ijms231911570
 
