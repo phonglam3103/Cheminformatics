@@ -29,14 +29,14 @@ def doit(n):
     #for p in part:
     #    print (p[1],)
     #print
-    f = open("Vina_sort.txt", "w")
+    f = open("Vina_sort.csv", "w")
     i = 0
     temp = ""
     for i in range(len(everything)):
-        temp = str(everything[i])
+        temp = str(everything[i][0])+","+str(everything[i][1])
         f.write (temp)
         f.write ('\n')
-    f = open("Vina_sort.txt", "r")
+    f = open("Vina_sort.csv", "r")
     print (f.read())
     if len(failures) > 0:
         print ('WARNING:', len(failures), 'pdbqt files could not be processed')
